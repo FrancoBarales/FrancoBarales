@@ -27,7 +27,7 @@ alt="Lissen01" /> </p>
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-C2FF35?logo=pycharm&logoColor=black&style=flat"/>
 </p>
      <div align="center">
-       <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" width="350" height="250" />
+       <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="250" />
        <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250">
     </div>
    
