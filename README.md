@@ -22,7 +22,6 @@ alt="Lissen01" /> </p>
   <img alt="PowerBI" src="https://img.shields.io/badge/-PowerBI-FED503?logo=powerbi&logoColor=black&style=flat"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-09BF00?logo=mongodb&logoColor=white&style=flat"/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-FF5335?logo=git&logoColor=white&style=flat"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white&style=flat"/>
   <img alt="VSCode" src="https://img.shields.io/badge/-VScode-0D1117?logo=visual-studio-code&logoColor=23A7F2&style=plastic"/>
   <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-35008D?logo=eclipse&logoColor=white&style=flat"/>
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-C2FF35?logo=pycharm&logoColor=black&style=flat"/>
